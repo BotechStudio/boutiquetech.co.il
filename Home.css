@@ -7,6 +7,15 @@ html {
   scroll-behavior: smooth;
 }
 
+a.button {
+  padding: 1px 6px;
+  border: 1px outset buttonborder;
+  border-radius: 3px;
+  color: black;
+  background-color: #d9b10d;
+  text-decoration: none;
+}
+
 .u-section-1 .u-sheet-1 {
   min-height: 773px;
 }
